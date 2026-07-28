@@ -1,0 +1,14 @@
+#Ignore python cache
+_pycache/
+
+#Ignore compile pyrhon file
+*.pyc
+
+#Ignopre text file
+temp.txt
+
+#ignore log file
+*.log
+
+#ignore Vs code setting
+.vscode/
